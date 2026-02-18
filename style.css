@@ -316,7 +316,7 @@ nav i {
   transform: translate(-50%, -50%);
   color: white;
   opacity: 0;
-  transition: 0-3 ease;
+  transition: 0.3 ease;
   cursor: pointer;
 }
 .card-media:hover .card-action {
