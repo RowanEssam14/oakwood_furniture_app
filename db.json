@@ -1,0 +1,129 @@
+[
+  {
+    "id": 1,
+    "name": "Luna Wood Chair",
+    "price": 69.5,
+    "image": "images/product-6.jpg",
+    "category": "furniture"
+  },
+  {
+    "id": 2,
+    "name": "Nordic Comfort Chair",
+    "price": 90,
+    "image": "images/product-9.jpg",
+    "category": "furniture"
+  },
+  {
+    "id": 3,
+    "name": "Ivory Bloom Chair",
+    "price": 40,
+    "image": "images/product-10.jpg",
+    "category": "furniture"
+  },
+  {
+    "id": 4,
+    "name": "Zen Egg Collection",
+    "price": 67,
+    "image": "images/product-12.jpg",
+    "category": "furniture"
+  },
+  {
+    "id": 5,
+    "name": "Modern Pine Console",
+    "price": 50,
+    "image": "images/product-13.jpg",
+    "category": "furniture"
+  },
+  {
+    "id": 6,
+    "name": "Aurora Vase",
+    "price": 30.0,
+    "image": "images/product-2.jpg",
+    "category": "accessories"
+  },
+  {
+    "id": 7,
+    "name": "Nordic Vase",
+    "price": 17.1,
+    "image": "images/product-4.jpg",
+    "category": "accessories"
+  },
+  {
+    "id": 8,
+    "name": "Oak Scoop Set",
+    "price": 21.0,
+    "image": "images/product-5.jpg",
+    "category": "accessories"
+  },
+  {
+    "id": 9,
+    "name": "Nordic Glass Jug",
+    "price": 30.1,
+    "image": "images/product-7.jpg",
+    "category": "accessories"
+  },
+  {
+    "id": 10,
+    "name": "Table Lamp",
+    "price": 45.0,
+    "image": "images/product-8.jpg",
+    "category": "accessories"
+  },
+  {
+    "id": 11,
+    "name": "Brew Pot",
+    "price": 25.75,
+    "image": "images/product-1.jpg",
+    "category": "accessories"
+  },
+  {
+    "id": 12,
+    "name": "Lavender Bunch",
+    "price": 10.0,
+    "image": "images/product-12.jpg",
+    "category": "decoration"
+  },
+  {
+    "id": 13,
+    "name": "Mini Succulent",
+    "price": 40.0,
+    "image": "images/product-3.jpg",
+    "category": "decoration"
+  },
+  {
+    "id": 14,
+    "name": "Oak Tray",
+    "price": 46.0,
+    "image": "images/product-11.jpg",
+    "category": "decoration"
+  },
+  {
+    "id": 15,
+    "name": "Pastel Pots",
+    "price": 15.0,
+    "image": "images/product-15.jpg",
+    "category": "decoration"
+  },
+  {
+    "id": 16,
+    "name": "Stone Vase",
+    "price": 77.0,
+    "image": "images/product-16.jpg",
+    "category": "decoration"
+  },
+
+  {
+    "id": 17,
+    "name": "Oak Egg Set",
+    "price": 19.0,
+    "image": "images/product-17.jpg",
+    "category": "decoration"
+  },
+  {
+    "id": 18,
+    "name": "Wood Spice Mill",
+    "price": 27.0,
+    "image": "images/product-18.jpg",
+    "category": "decoration"
+  }
+]
